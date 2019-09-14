@@ -1,0 +1,4 @@
+-----------------PHONEARENA ----------------------------
+
+this will be simple application that store information of the phone with max four pictures
+this will include accounting processing.
